@@ -1,6 +1,7 @@
 For this challenge, my goal is to take an input, reverse the letters, and re-print it.
 
 ##Edit 1##
+
 As a total beginner, my first movement was to creat the following:
 
   print('hello world')
